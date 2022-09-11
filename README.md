@@ -1,5 +1,8 @@
 # Excel-Sales-Dashboard-for-US-Restaurants
 
+![Sales Dashbaord](https://user-images.githubusercontent.com/54687935/189539311-658f4d18-7393-4a14-8766-87ab708cf938.JPG)
+
+
 ## Project Summary:
 ### Advanced Dashboard using Excel for Sales data from US Restaurants contains 438 rows and 14 columns
 #### columns names
